@@ -1,1 +1,37 @@
 /*  your css code here. If applicable */
+
+body{
+	background-color:rgb(204, 204, 204);
+}
+h1{
+	text-align:center;
+	
+}
+h2{
+	text-align:center;
+}
+ ul {
+            list-style-type: none;
+        }
+        li {
+            list-style-type: none;
+        }
+        a {
+            target: _blank;
+            text-decoration-line: none;
+        }
+#song{
+	background-color:rgb(255, 255, 255);
+	border-radius:10px;
+	padding:10px;
+	font-size:15px;
+}
+#auvi{
+	background-color:rgb(255, 255, 255);
+	border-radius:50px;
+	width:300px;
+	padding:100px;
+	font-size:10px;
+	font:bold;
+	cellspacing:100px;
+}
